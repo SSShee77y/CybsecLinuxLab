@@ -1,0 +1,5 @@
+You open the hidden door and you see a banner image and a locked door.
+
+You wonder if there is some clue in this room to provide access to the locked door. You try to `unzip` on the door, but you have no luck opening it.
+
+You look around and notice that the banner image also seems to be peeling off the wall, and it makes you think about the time you found your parents' money hidden behind a `cat` photo.
