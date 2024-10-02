@@ -1,3 +1,0 @@
-You enter a room a see a note with hex values on it. You wonder which linux command it was to convert the hex back to ASCII text??
-
-You think it was something like "xxd" But you wonder what the flags were to get it to Ascii correctly. Of course you could search it up on Google... but you look around and see a painting of a 'p'i'r'ate.
